@@ -1,10 +1,7 @@
 # romantic-alexa
 ## Build an Artificial Assistant
 
-### Full tutorial (video)
-To watch the tutorial, click on the image below
-
-[![Watch the video-- Build your own Alexa](https://img.youtube.com/vi/AWvsXxDtEkU/0.jpg)](https://www.youtube.com/watch?v=AWvsXxDtEkU "Build your own Alexa")
+![image](https://user-images.githubusercontent.com/68680902/110165278-b96a5300-7e18-11eb-9586-955a4556edf7.png)
 
 ## Installation
 ### For windows users
@@ -34,3 +31,5 @@ In case any error pops up install this -
 
 #### Issues
 If you encounter any problems feel free to open a new issue. Before that check other closed issues and check if your issue matches with any older issues.
+### Contributing 
+Pull requests are Always welcome. For major changes, please open an issue first to discuss what you would like to change.
